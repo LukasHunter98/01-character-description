@@ -1,4 +1,4 @@
-# A short description of an imaginary flag using a cross letter 
+# A short description of an imaginary flag using a letter symbol 
 
 ![Alt.text](Favourite%20letter-orange.png)
 
