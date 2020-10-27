@@ -1,11 +1,5 @@
-## Character & Description
+# A short description of an imaginary flag using a letter symbol 
 
-![This is the alt text.]
+![Alt.text](Favourite%20letter-orange.png)
 
-![Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.](uppercase-and-jgagne.png)
-
-*O*, Lukas Hunter. Screenshot of an artboard in Adobe Illustrator.
-
-- - -
-
-Close-up of a 16 point ampersand typeset in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+I decided to chose the letter “x”. The letter “x” has a centered proportion that is easily applicable on anything. Even on flags. On the picture, you can see a fictional flag with a bold white cross in the shape of an uppercase sans serif “x”. In the middle of the cross is an orange circle and inside the circle is a symbol of a sun. The sun symbol is made up of 16 points. The cross symbol is surrounded by four triangles, two triangles are blue and the other two are red. Blue white and red are common colours that are used on national flags with red symbolizing the blood that was spilled during certain country's revolution.
