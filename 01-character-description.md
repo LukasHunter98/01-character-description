@@ -2,7 +2,7 @@
 
 ### Process
 
-![Alt.text](letter-lhunter.png)
+![Alt.text](img/letter-lhunter.png)
 
 ***Lukas Hunter, Imaginary flag with capitalized X, digital art made with illustrator.***
 
